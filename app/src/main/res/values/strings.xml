@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SEproject2</string>
+    <string name="facebook_app_id">111915432905399</string>
+    <string name="fb_login_protocol_scheme">fb111915432905399</string>
+    <string name="title_activity_create">create</string>
+    <string name="button">Button</string>
+    <string name="string">หญิง</string>
+    <string name="e_mail">กรอก E-mail</string>
+    <string name="email">ชาย</string>
+    <string name="password">Tel</string>
+    <string name="pass">Password</string>
+    <string name="female">หญิง</string>
+    <string name="male">ชาย</string>
+    <string name="title_activity_listrequest">Listrequest</string>
+</resources>
